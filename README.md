@@ -1,16 +1,21 @@
-# zylentrix
+This Flutter project demonstrates how to fetch data from a public API, display the data in a scrollable ListView, implement a loading indicator during the data fetching process, and gracefully handle API errors by displaying an error message when the request fails.
 
-A new Flutter project.
+Features
 
-## Getting Started
+Fetches data from JSONPlaceholder API
 
-This project is a starting point for a Flutter application.
+Displays the fetched data in a scrollable ListView
 
-A few resources to get you started if this is your first Flutter project:
+Shows a loading indicator while the data is being fetched
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Gracefully handles API errors by showing an error message
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Getting Started
+
+Prerequisites
+
+Make sure you have the following installed:
+
+Flutter SDK
+
+Dart SDK
